@@ -31,28 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Investigating Netflix Movies 🎬",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "In this project, I analyzed a dataset of Netflix movies from the 1990s, focusing on movie duration and genres. Using Python with pandas and matplotlib, I filtered the data to include only movies, then visualized the distribution of durations and identified short action films. This project helped me refine data filtering, manipulation, and basic visualization skills.",
+    url: "https://www.datacamp.com/datalab/w/f834829a-bca2-4ed5-ad5e-b03bf8bd156c/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Analyzing Shopping Behavior with K-Means Clustering",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "In this project, I performed customer segmentation using K-Means clustering on a mall customer dataset. After following a guided tutorial, I added modifications like the Income-to-Spending Ratio and categorized customers by Age Groups to analyze spending patterns. This project helped me understand how customer groups based on income and spending can inform targeted marketing strategies.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
 
